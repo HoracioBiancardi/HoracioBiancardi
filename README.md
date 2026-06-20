@@ -1,6 +1,6 @@
 # Olá, eu sou o Horácio Biancardi! 👋
 
-Engenheiro de Dados focado em construir pipelines de dados robustos, escaláveis e arquiteturas de código limpas. Tenho vasta experiência na criação de ecossistemas de dados eficientes, utilizando as melhores práticas de desenvolvimento de software aplicadas à engenharia de dados.
+Sou especialista em engenharia de dados focado em construir pipelines de dados robustos, escaláveis e arquiteturas de código limpas. Tenho vasta experiência na criação de ecossistemas de dados eficientes, utilizando as melhores práticas de desenvolvimento de software aplicadas à engenharia de dados.
 
 ---
 
